@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Data Analyst in progress 🌱:hourglass:
+
 
 <!--
 **migle-ka/migle-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
